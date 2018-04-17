@@ -18,3 +18,7 @@ Requires the [OneWire](https://www.pjrc.com/teensy/td_libs_OneWire.html) library
 | 3       | Black   | LED +     |
 | 2       | White   | LED -     |
 | 1       | Red     | Ground    |
+
+iButtons use the 1-Wire bus and can be connected over long (dozens of meters) cables in different configurations.
+
+[Guidelines for Reliable Long Line 1-Wire Networks](https://www.maximintegrated.com/en/app-notes/index.mvp/id/148)
